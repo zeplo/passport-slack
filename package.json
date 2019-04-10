@@ -1,6 +1,6 @@
 {
-  "name": "passport-slack",
-  "version": "0.0.7",
+  "name": "@zeplo/passport-slack",
+  "version": "0.1.0",
   "description": "Slack OAuth2 strategy for Passport.",
   "keywords": [
     "passport",
